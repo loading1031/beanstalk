@@ -1,6 +1,0 @@
-
-  servlet:
-    multipart:
-      enabled: true
-      maxFileSize: 200MB # ??? ?? ?? ???
-      maxRequestSize: 300MB
